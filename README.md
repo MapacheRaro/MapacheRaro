@@ -44,12 +44,16 @@ Soy **estudiante de Ingeniería Energética** en la **Universidad Autónoma del 
 
 <hr>
 
-<center>
+<p style="text-align: center;">
   💡 Siempre en la búsqueda de nuevos retos y oportunidades para aprender. 
-</center>
-<center> Si tienes un proyecto, una idea loca o simplemente quieres charlar sobre algo interesante, ¡no dudes en contactarme! 🚀
-</center>
+</p>
+<br>
+<p style="text-align: center;"> Si tienes un proyecto, una idea loca o simplemente quieres charlar sobre algo interesante, ¡no dudes en contactarme! 🚀
+</p>
 
+<p style="text-align: center;">
+  💡 Siempre en la búsqueda de nuevos retos y oportunidades para aprender. Si tienes un proyecto, una idea loca o simplemente quieres charlar sobre algo interesante, ¡no dudes en contactarme! 🚀
+</p>
 
 
 
