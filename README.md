@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/MapacheRaro/MapacheRaro/refs/heads/main/Banner%20machapa.jpg" alt="Banner" width="700">
+    <img src="https://raw.githubusercontent.com/MapacheRaro/MapacheRaro/refs/heads/main/Banner%20machapa.jpg" alt="Banner" width="600">
 </div>
 
 
