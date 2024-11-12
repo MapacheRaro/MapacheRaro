@@ -20,7 +20,8 @@
 
 Soy **estudiante de Ingeniería Energética** en la **Universidad Autónoma del Cauca** ⚡🌍, y aunque soy **autodidacta** 📚 (es decir, me encanta aprender por mi cuenta y en el camino), no soy un experto, ¡pero siempre estoy mejorando! Aquí te dejo un resumen de lo que sé hacer, ¡espero que te guste!
 
-### 🖥️ **Programación y Desarrollo**:
+<h2>🖥️ **Programación y Desarrollo</h2>
+
 - **Arduino (C++)** 🔧: ¿Quién no ama un buen proyecto con Arduino? Me he aventurado a crear sistemas y proyectos con **C++**, desde cosas sencillas hasta más complejas. 
 - **Python** 🐍: Python me ha enseñado a automatizar todo lo que puedo, desde tareas simples hasta proyectos más interesantes. ¡Es como el superhéroe de la programación!
 - **HTML** 🌐: Con HTML, empiezo a crear mundos virtuales. A veces, me siento como un arquitecto de la web. 👷‍♂️
