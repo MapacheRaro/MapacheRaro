@@ -48,4 +48,37 @@ Soy **estudiante de Ingeniería Energética** en la **Universidad Autónoma del 
 <h5> <p align="center">Si tienes un proyecto, una idea loca o simplemente quieres charlar sobre algo interesante, ¡no dudes en contactarme! 🚀  </h5> </p> 
 
 
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cajón de Contacto</title>
+</head>
+<body>
+
+  <h2>Formulario de Contacto</h2>
+
+  <div style="border: 2px solid #ccc; padding: 20px; width: 300px; border-radius: 8px;">
+    <form action="enviar_formulario.php" method="POST">
+      <label for="nombre">Nombre:</label><br>
+      <input type="text" id="nombre" name="nombre" required style="width: 100%; padding: 8px; margin-bottom: 10px;"><br><br>
+      
+      <label for="email">Correo Electrónico:</label><br>
+      <input type="email" id="email" name="email" required style="width: 100%; padding: 8px; margin-bottom: 10px;"><br><br>
+      
+      <label for="mensaje">Mensaje:</label><br>
+      <textarea id="mensaje" name="mensaje" rows="4" required style="width: 100%; padding: 8px; margin-bottom: 10px;"></textarea><br><br>
+      
+      <button type="submit" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+        Enviar
+      </button>
+    </form>
+  </div>
+
+</body>
+</html>
+
+
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
