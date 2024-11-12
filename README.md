@@ -1,7 +1,6 @@
 ## Hola, soy Camilo Fernandez 👋
-<h1> Hello Fellow < Developers/ >! <img src = "  https://files.oaiusercontent.com/file-W0irgiwkoxAPtpuSdlfojSxH?se=2024-11-12T02%3A18%3A32Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Da1752039-363a-44e5-82ec-c7e6705c003b.webp&sig=QZnXFmXAE0RWOA0Zh%2BDYsBmOT/KmWLsePXbDI03xET4%3D
-<!--
-" width = 30px> </h1>
+![Descripción de la imagen]([URL-de-la-imagen](https://github.com/MapacheRaro/MapacheRaro/blob/08c4be8fb968daac3d1d0a800a5fbc51de4d38c9/machapa.webp))
+
   
 
 
