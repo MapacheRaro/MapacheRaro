@@ -17,7 +17,7 @@
 Soy **estudiante de Ingeniería Energética** en la **Universidad Autónoma del Cauca** ⚡🌍, y aunque soy **autodidacta** 📚 (es decir, me encanta aprender por mi cuenta y en el camino), no soy un experto, ¡pero siempre estoy mejorando! Aquí te dejo un resumen de lo que sé hacer, ¡espero que te guste!
 
 ### 🖥️ **Programación y Desarrollo**:
-- **Arduino (C++)** 🔧: ¿Quién no ama un buen proyecto con Arduino? Me he aventurado a crear sistemas y proyectos con **C++**, desde cosas sencillas hasta más complejas. ¡Eso sí, el cableado y yo tenemos una relación de amor-odio!
+- **Arduino (C++)** 🔧: ¿Quién no ama un buen proyecto con Arduino? Me he aventurado a crear sistemas y proyectos con **C++**, desde cosas sencillas hasta más complejas. 
 - **Python** 🐍: Python me ha enseñado a automatizar todo lo que puedo, desde tareas simples hasta proyectos más interesantes. ¡Es como el superhéroe de la programación!
 - **HTML** 🌐: Con HTML, empiezo a crear mundos virtuales. A veces, me siento como un arquitecto de la web. 👷‍♂️
 - **JavaScript** 💻: Un poco de JavaScript nunca viene mal cuando quiero hacer mis sitios web un poquito más dinámicos. Y bueno, los errores de "undefined" siempre me encuentran, pero seguimos luchando.
@@ -26,12 +26,12 @@ Soy **estudiante de Ingeniería Energética** en la **Universidad Autónoma del 
 ### 🔌 **Electrónica y Comunicaciones**:
 - **Electrónica** 🔋: Si tiene circuitos, transistores y cables, ¡ahí estoy yo! Aunque a veces el "¡por fin lo logré!" suena más fuerte que el "trabajo en progreso", pero todo es parte del viaje.
 - **Comunicaciones** 📡: He tocado un poco el tema de comunicaciones, porque cuando no estamos conectados, ¿realmente existimos? (Sí, soy un poquito filosófico sobre esto 😅).
-- **Proteus** 🛠️: Este es mi simulador favorito cuando quiero probar mis ideas electrónicas antes de que se conviertan en un caos real. ¡Nada mejor que ver el proyecto en acción sin quemar nada!
-- **Fritzing** 🖥️: Cuando se trata de crear **PCBs** (Placas de Circuito Impreso), **Fritzing** es mi herramienta preferida para hacer representaciones claras y ordenadas de mis diseños electrónicos.
+- **Proteus** 🛠️: Este es mi simulador favorito cuando quiero probar mis ideas electrónicas antes de que se conviertan en un caos real, ademas de poder crear PCBs profesionales. ¡Nada mejor que ver el proyecto en acción sin quemar nada!
+- **Fritzing** 🖥️: Cuando se trata de crear **PCBs** (Placas de Circuito Impreso), **Fritzing** es mi herramienta preferida para hacer representaciones claras y ordenadas de mis diseños electrónicos siempre y cuando sean en Arduino ya que el IDE permite un manejo superior con estos modelos ya que incorpora directamente estas librerias.
 
 ### 🎨 **Diseño Gráfico y 3D**:
 - **Diseño 3D en Fusion 360** 🖥️: Con **Fusion 360**, hago modelos 3D precisos, ya sea para proyectos mecánicos o electrónicos. Es mi software de cabecera para crear prototipos y diseños funcionales.
-- **Tinkercad** 🛠️: Si busco algo más sencillo y rápido, **Tinkercad** es mi amigo. Ideal para modelado 3D básico y prototipos rápidos sin complicarme demasiado.
+- **Tinkercad** 🛠️: Si busco algo más sencillo y rápido, **Tinkercad** es mi amigo. Ideal para modelado 3D básico y prototipos rápidos sin complicarme demasiado ademas de simular circuitos basicos.
 - **Illustrator** 🎨: ¡A todo diseñador le encanta un buen logo o ilustración! Illustrator me permite dar rienda suelta a mi creatividad y hacer que las ideas cobren vida.
 - **Photoshop** 🖼️: Cuando necesito retocar algo o hacer magia con imágenes, Photoshop es mi compañero inseparable. ¡Nunca subestimes el poder de un buen filtro!
 
