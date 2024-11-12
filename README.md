@@ -44,7 +44,10 @@ Soy **estudiante de Ingeniería Energética** en la **Universidad Autónoma del 
 
 <hr>
 
-💡 Siempre en la búsqueda de nuevos retos y oportunidades para aprender. Si tienes un proyecto, una idea loca o simplemente quieres charlar sobre algo interesante, ¡no dudes en contactarme! 🚀
+<p style="text-align: center;">
+  💡 Siempre en la búsqueda de nuevos retos y oportunidades para aprender. Si tienes un proyecto, una idea loca o simplemente quieres charlar sobre algo interesante, ¡no dudes en contactarme! 🚀
+</p>
+
 
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
