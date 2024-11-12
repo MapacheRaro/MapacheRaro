@@ -14,6 +14,7 @@
 
 <br>
 <h1>Sobre mí! 😎</h1>
+[![Gmail Badge](https://img.shields.io/badge/-camilo.fernandez.v@uniautonoma.edu.co-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:camilo.fernandez.v@uniautonoma.edu.co)
 
 Soy **estudiante de Ingeniería Energética** en la **Universidad Autónoma del Cauca** ⚡🌍, y aunque soy **autodidacta** 📚 (es decir, me encanta aprender por mi cuenta y en el camino), no soy un experto, ¡pero siempre estoy mejorando! Aquí te dejo un resumen de lo que sé hacer, ¡espero que te guste!
 
