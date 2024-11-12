@@ -12,7 +12,7 @@
     <img src="https://raw.githubusercontent.com/MapacheRaro/MapacheRaro/refs/heads/main/Banner%20machapa.jpg" alt="Banner" width="600">
 </div>
 
-
+<br>
 Soy **estudiante de Ingeniería Energética** en la **Universidad Autónoma del Cauca** ⚡🌍, y aunque soy **autodidacta** 📚 (es decir, me encanta aprender por mi cuenta y en el camino), no soy un experto, ¡pero siempre estoy mejorando! Aquí te dejo un resumen de lo que sé hacer, ¡espero que te guste!
 
 ### 🖥️ **Programación y Desarrollo**:
@@ -26,14 +26,15 @@ Soy **estudiante de Ingeniería Energética** en la **Universidad Autónoma del 
 - **Electrónica** 🔋: Si tiene circuitos, transistores y cables, ¡ahí estoy yo! Aunque a veces el "¡por fin lo logré!" suena más fuerte que el "trabajo en progreso", pero todo es parte del viaje.
 - **Comunicaciones** 📡: He tocado un poco el tema de comunicaciones, porque cuando no estamos conectados, ¿realmente existimos? (Sí, soy un poquito filosófico sobre esto 😅).
 - **Proteus** 🛠️: Este es mi simulador favorito cuando quiero probar mis ideas electrónicas antes de que se conviertan en un caos real. ¡Nada mejor que ver el proyecto en acción sin quemar nada!
+- **Fritzing** 🖥️: Cuando se trata de crear **PCBs** (Placas de Circuito Impreso), **Fritzing** es mi herramienta preferida para hacer representaciones claras y ordenadas de mis diseños electrónicos.
 
 ### 🎨 **Diseño Gráfico y 3D**:
-- **Diseño 3D** 🖥️: Diseño en 3D para visualizar ideas, crear prototipos virtuales y soñar despierto con proyectos locos. ¡A veces mi computadora sufre, pero lo hago con amor! 😬
-- **Illustrator** 🎨: ¡A todo diseñador le encanta un buen logo o ilustración! Illustrator me permite dar rienda suelta a mi creatividad y hacer que las ideas cobren vida. 
+- **Diseño 3D en Fusion 360** 🖥️: Con **Fusion 360**, hago modelos 3D precisos, ya sea para proyectos mecánicos o electrónicos. Es mi software de cabecera para crear prototipos y diseños funcionales.
+- **Tinkercad** 🛠️: Si busco algo más sencillo y rápido, **Tinkercad** es mi amigo. Ideal para modelado 3D básico y prototipos rápidos sin complicarme demasiado.
+- **Illustrator** 🎨: ¡A todo diseñador le encanta un buen logo o ilustración! Illustrator me permite dar rienda suelta a mi creatividad y hacer que las ideas cobren vida.
 - **Photoshop** 🖼️: Cuando necesito retocar algo o hacer magia con imágenes, Photoshop es mi compañero inseparable. ¡Nunca subestimes el poder de un buen filtro!
 
 💡 Siempre en la búsqueda de nuevos retos y oportunidades para aprender. Si tienes un proyecto, una idea loca o simplemente quieres charlar sobre algo interesante, ¡no dudes en contactarme! 🚀
-
 
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
